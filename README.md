@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+DSEA - Pwani University is a group of Data Scientists at Pwani University - Kilifi, Kenya, part of the *Data Science East Africa* community. The current campus ambassador is [Silas Jimmy](https://github.com/silasjimmy) 
 
 <!--
 **dseapwaniuni/dseapwaniuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
